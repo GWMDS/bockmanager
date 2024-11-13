@@ -1,0 +1,10 @@
+The Catcher in the Rye,J.D. Salinger,1951
+To Kill a Mockingbird,Harper Lee,1960
+1984,George Orwell,1949
+The Great Gatsby,F. Scott Fitzgerald,1925
+Brave New World,Aldous Huxley,1932
+Sapiens,Yuval Noah Harari,2011,EPUB
+Harry Potter and the Philosopher's Stone,J.K. Rowling,1997,PDF
+The Hobbit,J.R.R. Tolkien,1937,MOBI
+The Road,Cormac McCarthy,2006,Kindle
+
